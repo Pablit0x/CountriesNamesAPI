@@ -1,743 +1,745 @@
-[
-  {
-    "category": "Country",
-    "value": "Albania"
-  },
-  {
-    "category": "Country",
-    "value": "Algieria"
-  },
-  {
-    "category": "Country",
-    "value": "Andora"
-  },
-  {
-    "category": "Country",
-    "value": "Angola"
-  },
-  {
-    "category": "Country",
-    "value": "Anguilla"
-  },
-  {
-    "category": "Country",
-    "value": "Antigua i Barbuda"
-  },
-  {
-    "category": "Country",
-    "value": "Argentyna"
-  },
-  {
-    "category": "Country",
-    "value": "Armenia"
-  },
-  {
-    "category": "Country",
-    "value": "Aruba"
-  },
-  {
-    "category": "Country",
-    "value": "Australia"
-  },
-  {
-    "category": "Country",
-    "value": "Austria"
-  },
-  {
-    "category": "Country",
-    "value": "Azerbejdżan"
-  },
-  {
-    "category": "Country",
-    "value": "Bahamy"
-  },
-  {
-    "category": "Country",
-    "value": "Bahrain"
-  },
-  {
-    "category": "Country",
-    "value": "Bangladesz"
-  },
-  {
-    "category": "Country",
-    "value": "Barbados"
-  },
-  {
-    "category": "Country",
-    "value": "Belize"
-  },
-  {
-    "category": "Country",
-    "value": "Benin"
-  },
-  {
-    "category": "Country",
-    "value": "Bermudy"
-  },
-  {
-    "category": "Country",
-    "value": "Bhutan"
-  },
-  {
-    "category": "Country",
-    "value": "Boliwia"
-  },
-  {
-    "category": "Country",
-    "value": "Bośnia i Hercegowina"
-  },
-  {
-    "category": "Country",
-    "value": "Botswana"
-  },
-  {
-    "category": "Country",
-    "value": "Brazylia"
-  },
-  {
-    "category": "Country",
-    "value": "Brunei"
-  },
-  {
-    "category": "Country",
-    "value": "Bułgaria"
-  },
-  {
-    "category": "Country",
-    "value": "Burkina Faso"
-  },
-  {
-    "category": "Country",
-    "value": "Burundi"
-  },
-  {
-    "category": "Country",
-    "value": "Chad"
-  },
-  {
-    "category": "Country",
-    "value": "Chiny"
-  },
-  {
-    "category": "Country",
-    "value": "Cypr"
-  },
-  {
-    "category": "Country",
-    "value": "Czad"
-  },
-  {
-    "category": "Country",
-    "value": "Czarnogóra"
-  },
-  {
-    "category": "Country",
-    "value": "Czechy"
-  },
-  {
-    "category": "Country",
-    "value": "Dania"
-  },
-  {
-    "category": "Country",
-    "value": "Dominika"
-  },
-  {
-    "category": "Country",
-    "value": "Dominikana"
-  },
-  {
-    "category": "Country",
-    "value": "Egipt"
-  },
-  {
-    "category": "Country",
-    "value": "Ekwador"
-  },
-  {
-    "category": "Country",
-    "value": "Erytrea"
-  },
-  {
-    "category": "Country",
-    "value": "Estonia"
-  },
-  {
-    "category": "Country",
-    "value": "Eswatini"
-  },
-  {
-    "category": "Country",
-    "value": "Etiopia"
-  },
-  {
-    "category": "Country",
-    "value": "Fidżi"
-  },
-  {
-    "category": "Country",
-    "value": "Filipiny"
-  },
-  {
-    "category": "Country",
-    "value": "Finlandia"
-  },
-  {
-    "category": "Country",
-  "value": "Francja"
-  },
-  {
-    "category": "Country",
-    "value": "Gabon"
-  },
-  {
-    "category": "Country",
-    "value": "Gambia"
-  },
-  {
-    "category": "Country",
-    "value": "Ghana"
-  },
-  {
-    "category": "Country",
-    "value": "Grecja"
-  },
-  {
-    "category": "Country",
-    "value": "Grenada"
-  },
-  {
-    "category": "Country",
-    "value": "Grenlandia"
-  },
-  {
-    "category": "Country",
-    "value": "Gruzja"
-  },
-  {
-    "category": "Country",
-    "value": "Gujana"
-  },
-  {
-    "category": "Country",
-    "value": "Gwatemala"
-  },
-  {
-    "category": "Country",
-    "value": "Gwinea"
-  },
-  {
-    "category": "Country",
-    "value": "Gwinea Bissau"
-  },
-  {
-    "category": "Country",
-    "value": "Haiti"
-  },
-  {
-    "category": "Country",
-    "value": "Hiszpania"
-  },
-  {
-    "category": "Country",
-    "value": "Holandia"
-  },
-  {
-    "category": "Country",
-    "value": "Honduras"
-  },
-  {
-    "category": "Country",
-    "value": "Indie"
-  },
-  {
-    "category": "Country",
-    "value": "Indonezja"
-  },
-  {
-    "category": "Country",
-    "value": "Irak"
-  },
-  {
-    "category": "Country",
-    "value": "Iran"
-  },
-  {
-    "category": "Country",
-    "value": "Irlandia"
-  },
-  {
-    "category": "Country",
-    "value": "Islandia"
-  },
-  {
-    "category": "Country",
-    "value": "Izrael"
-  },
-  {
-    "category": "Country",
-    "value": "Jamajka"
-  },
-  {
-    "category": "Country",
-    "value": "Japonia"
-  },
-  {
-    "category": "Country",
-    "value": "Jemen"
-  },
-  {
-    "category": "Country",
-    "value": "Jordania"
-  },
-  {
-    "category": "Country",
-    "value": "Kambodża"
-  },
-  {
-    "category": "Country",
-    "value": "Kamerun"
-  },
-  {
-    "category": "Country",
-    "value": "Kanada"
-  },
-  {
-    "category": "Country",
-    "value": "Katar"
-  },
-  {
-    "category": "Country",
-    "value": "Kazachstan"
-  },
-  {
-    "category": "Country",
-    "value": "Kenia"
-  },
-  {
-    "category": "Country",
-    "value": "Kirgistan"
-  },
-  {
-    "category": "Country",
-    "value": "Kiribati"
-  },
-  {
-    "category": "Country",
-    "value": "Kolumbia"
-  },
-  {
-    "category": "Country",
-    "value": "Komory"
-  },
-  {
-    "category": "Country",
-    "value": "Kongo"
-  },
-  {
-    "category": "Country",
-    "value": "Kosowo"
-  },
-  {
-    "category": "Country",
-    "value": "Kostaryka"
-  },
-  {
-    "category": "Country",
-    "value": "Kuba"
-  },
-  {
-    "category": "Country",
-    "value": "Kuwejt"
-  },
-  {
-    "category": "Country",
-    "value": "Laos"
-  },
-  {
-    "category": "Country",
-    "value": "Lesotho"
-  },
-  {
-    "category": "Country",
-    "value": "Liban"
-  },
-  {
-    "category": "Country",
-    "value": "Liberia"
-  },
-  {
-    "category": "Country",
-    "value": "Libia"
-  },
-  {
-    "category": "Country",
-    "value": "Liechtenstein"
-  },
-  {
-    "category": "Country",
-    "value": "Litwa"
-  },
-  {
-    "category": "Country",
-    "value": "Luksemburg"
-  },
-  {
-    "category": "Country",
-    "value": "Łotwa"
-  },
-  {
-    "category": "Country",
-    "value": "Macedonia Północna"
-  },
-  {
-    "category": "Country",
-    "value": "Madagaskar"
-  },
-  {
-    "category": "Country",
-    "value": "Malawi"
-  },
-  {
-    "category": "Country",
-    "value": "Malediwy"
-  },
-  {
-    "category": "Country",
-    "value": "Malezja"
-  },
-  {
-    "category": "Country",
-    "value": "Mali"
-  },
-  {
-    "category": "Country",
-    "value": "Malta"
-  },
-  {
-    "category": "Country",
-    "value": "Maroko"
-  },
-  {
-    "category": "Country",
-    "value": "Martynika"
-  },
-  {
-    "category": "Country",
-    "value": "Mauretania"
-  },
-  {
-    "category": "Country",
-    "value": "Mauritius"
-  },
-  {
-    "category": "Country",
-    "value": "Meksyk"
-  },
-  {
-    "category": "Country",
-    "value": "Mikronezja"
-  },
-  {
-    "category": "Country",
-    "value": "Mołdawia"
-  },
-  {
-    "category": "Country",
-    "value": "Monako"
-  },
-  {
-    "category": "Country",
-    "value": "Mongolia"
-  },
-  {
-    "category": "Country",
-    "value": "Mozambik"
-  },
-  {
-    "category": "Country",
-    "value": "Namibia"
-  },
-  {
-    "category": "Country",
-    "value": "Nauru"
-  },
-  {
-    "category": "Country",
-    "value": "Nepal"
-  },
-  {
-    "category": "Country",
-    "value": "Niemcy"
-  },
-  {
-    "category": "Country",
-    "value": "Niger"
-  },
-  {
-    "category": "Country",
-    "value": "Nigeria"
-  },
-  {
-    "category": "Country",
-    "value": "Nikaragua"
-  },
-  {
-    "category": "Country",
-    "value": "Norwegia"
-  },
-  {
-    "category": "Country",
-    "value": "Nowa Zelandia"
-  },
-  {
-    "category": "Country",
-    "value": "Oman"
-  },
-  {
-    "category": "Country",
-    "value": "Pakistan"
-  },
-  {
-    "category": "Country",
-    "value": "Palau"
-  },
-  {
-    "category": "Country",
-    "value": "Panama"
-  },
-  {
-    "category": "Country",
-    "value": "Papua-Nowa Gwinea"
-  },
-  {
-    "category": "Country",
-    "value": "Paragwaj"
-  },
-  {
-    "category": "Country",
-    "value": "Peru"
-  },
-  {
-    "category": "Country",
-    "value": "Polska"
-  },
-  {
-    "category": "Country",
-    "value": "Portugalia"
-  },
-  {
-    "category": "Country",
-    "value": "Republika Południowej Afryki"
-  },
-  {
-    "category": "Country",
-    "value": "Republika Środkowoafrykańska"
-  },
-  {
-    "category": "Country",
-    "value": "Rosja"
-  },
-  {
-    "category": "Country",
-    "value": "Rumunia"
-  },
-  {
-    "category": "Country",
-    "value": "Rwanda"
-  },
-  {
-    "category": "Country",
-    "value": "Saint Kitts i Nevis"
-  },
-  {
-    "category": "Country",
-    "value": "Saint Lucia"
-  },
-  {
-    "category": "Country",
-    "value": "Saint Vincent i Grenadyny"
-  },
-  {
-    "category": "Country",
-    "value": "Salwador"
-  },
-  {
-    "category": "Country",
-    "value": "Samoa"
-  },
-  {
-    "category": "Country",
-    "value": "San Marino"
-  },
-  {
-    "category": "Country",
-    "value": "Senegal"
-  },
-  {
-    "category": "Country",
-    "value": "Serbia"
-  },
-  {
-    "category": "Country",
-    "value": "Seszele"
-  },
-  {
-    "category": "Country",
-    "value": "Sierra Leone"
-  },
-  {
-    "category": "Country",
-    "value": "Singapur"
-  },
-  {
-    "category": "Country",
-    "value": "Słowacja"
-  },
 {
-    "category": "Country",
-    "value": "Słowenia"
-  },
-  {
-    "category": "Country",
-    "value": "Somalia"
-  },
-  {
-    "category": "Country",
-    "value": "Sudan"
-  },
-  {
-    "category": "Country",
-    "value": "Sudan Południowy"
-  },
-  {
-    "category": "Country",
-    "value": "Surinam"
-  },
-  {
-    "category": "Country",
-    "value": "Syria"
-  },
-  {
-    "category": "Country",
-    "value": "Szwajcaria"
-  },
-  {
-    "category": "Country",
-    "value": "Tadżykistan"
-  },
-  {
-    "category": "Country",
-    "value": "Tajlandia"
-  },
-  {
-    "category": "Country",
-    "value": "Tajwan"
-  },
-  {
-    "category": "Country",
-    "value": "Tanzania"
-  },
-  {
-    "category": "Country",
-    "value": "Togo"
-  },
-  {
-    "category": "Country",
-    "value": "Tonga"
-  },
-  {
-    "category": "Country",
-    "value": "Trynidad i Tobago"
-  },
-  {
-    "category": "Country",
-    "value": "Tunezja"
-  },
-  {
-    "category": "Country",
-    "value": "Turcja"
-  },
-  {
-    "category": "Country",
-    "value": "Turkmenistan"
-  },
-  {
-    "category": "Country",
-    "value": "Tuvalu"
-  },
-  {
-    "category": "Country",
-    "value": "Uganda"
-  },
-  {
-    "category": "Country",
-    "value": "Ukraina"
-  },
-  {
-    "category": "Country",
-    "value": "Urugwaj"
-  },
-  {
-    "category": "Country",
-    "value": "Uzbekistan"
-  },
-  {
-    "category": "Country",
-    "value": "Vanuatu"
-  },
-  {
-    "category": "Country",
-    "value": "Watykan"
-  },
-  {
-    "category": "Country",
-    "value": "Wenezuela"
-  },
-  {
-    "category": "Country",
-    "value": "Węgry"
-  },
-  {
-    "category": "Country",
-    "value": "Wielka Brytania"
-  },
-  {
-    "category": "Country",
-    "value": "Wietnam"
-  },
-  {
-    "category": "Country",
-    "value": "Włochy"
-  },
-  {
-    "category": "Country",
-    "value": "Wybrzeże Kości Słoniowej"
-  },
-  {
-    "category": "Country",
-    "value": "Wyspy Cooka"
-  },
-  {
-    "category": "Country",
-    "value": "Wyspy Marshalla"
-  },
-  {
-    "category": "Country",
-    "value": "Wyspy Owcze"
-  },
-  {
-    "category": "Country",
-    "value": "Wyspy Salomona"
-  },
-  {
-    "category": "Country",
-    "value": "Zambia"
-  },
-  {
-    "category": "Country",
-    "value": "Zimbabwe"
-  }
-]
-
+  "data":
+    [
+      {
+        "category": "Country",
+        "value": "Albania"
+      },
+      {
+        "category": "Country",
+        "value": "Algieria"
+      },
+      {
+        "category": "Country",
+        "value": "Andora"
+      },
+      {
+        "category": "Country",
+        "value": "Angola"
+      },
+      {
+        "category": "Country",
+        "value": "Anguilla"
+      },
+      {
+        "category": "Country",
+        "value": "Antigua i Barbuda"
+      },
+      {
+        "category": "Country",
+        "value": "Argentyna"
+      },
+      {
+        "category": "Country",
+        "value": "Armenia"
+      },
+      {
+        "category": "Country",
+        "value": "Aruba"
+      },
+      {
+        "category": "Country",
+        "value": "Australia"
+      },
+      {
+        "category": "Country",
+        "value": "Austria"
+      },
+      {
+        "category": "Country",
+        "value": "Azerbejdżan"
+      },
+      {
+        "category": "Country",
+        "value": "Bahamy"
+      },
+      {
+        "category": "Country",
+        "value": "Bahrain"
+      },
+      {
+        "category": "Country",
+        "value": "Bangladesz"
+      },
+      {
+        "category": "Country",
+        "value": "Barbados"
+      },
+      {
+        "category": "Country",
+        "value": "Belize"
+      },
+      {
+        "category": "Country",
+        "value": "Benin"
+      },
+      {
+        "category": "Country",
+        "value": "Bermudy"
+      },
+      {
+        "category": "Country",
+        "value": "Bhutan"
+      },
+      {
+        "category": "Country",
+        "value": "Boliwia"
+      },
+      {
+        "category": "Country",
+        "value": "Bośnia i Hercegowina"
+      },
+      {
+        "category": "Country",
+        "value": "Botswana"
+      },
+      {
+        "category": "Country",
+        "value": "Brazylia"
+      },
+      {
+        "category": "Country",
+        "value": "Brunei"
+      },
+      {
+        "category": "Country",
+        "value": "Bułgaria"
+      },
+      {
+        "category": "Country",
+        "value": "Burkina Faso"
+      },
+      {
+        "category": "Country",
+        "value": "Burundi"
+      },
+      {
+        "category": "Country",
+        "value": "Chad"
+      },
+      {
+        "category": "Country",
+        "value": "Chiny"
+      },
+      {
+        "category": "Country",
+        "value": "Cypr"
+      },
+      {
+        "category": "Country",
+        "value": "Czad"
+      },
+      {
+        "category": "Country",
+        "value": "Czarnogóra"
+      },
+      {
+        "category": "Country",
+        "value": "Czechy"
+      },
+      {
+        "category": "Country",
+        "value": "Dania"
+      },
+      {
+        "category": "Country",
+        "value": "Dominika"
+      },
+      {
+        "category": "Country",
+        "value": "Dominikana"
+      },
+      {
+        "category": "Country",
+        "value": "Egipt"
+      },
+      {
+        "category": "Country",
+        "value": "Ekwador"
+      },
+      {
+        "category": "Country",
+        "value": "Erytrea"
+      },
+      {
+        "category": "Country",
+        "value": "Estonia"
+      },
+      {
+        "category": "Country",
+        "value": "Eswatini"
+      },
+      {
+        "category": "Country",
+        "value": "Etiopia"
+      },
+      {
+        "category": "Country",
+        "value": "Fidżi"
+      },
+      {
+        "category": "Country",
+        "value": "Filipiny"
+      },
+      {
+        "category": "Country",
+        "value": "Finlandia"
+      },
+      {
+        "category": "Country",
+      "value": "Francja"
+      },
+      {
+        "category": "Country",
+        "value": "Gabon"
+      },
+      {
+        "category": "Country",
+        "value": "Gambia"
+      },
+      {
+        "category": "Country",
+        "value": "Ghana"
+      },
+      {
+        "category": "Country",
+        "value": "Grecja"
+      },
+      {
+        "category": "Country",
+        "value": "Grenada"
+      },
+      {
+        "category": "Country",
+        "value": "Grenlandia"
+      },
+      {
+        "category": "Country",
+        "value": "Gruzja"
+      },
+      {
+        "category": "Country",
+        "value": "Gujana"
+      },
+      {
+        "category": "Country",
+        "value": "Gwatemala"
+      },
+      {
+        "category": "Country",
+        "value": "Gwinea"
+      },
+      {
+        "category": "Country",
+        "value": "Gwinea Bissau"
+      },
+      {
+        "category": "Country",
+        "value": "Haiti"
+      },
+      {
+        "category": "Country",
+        "value": "Hiszpania"
+      },
+      {
+        "category": "Country",
+        "value": "Holandia"
+      },
+      {
+        "category": "Country",
+        "value": "Honduras"
+      },
+      {
+        "category": "Country",
+        "value": "Indie"
+      },
+      {
+        "category": "Country",
+        "value": "Indonezja"
+      },
+      {
+        "category": "Country",
+        "value": "Irak"
+      },
+      {
+        "category": "Country",
+        "value": "Iran"
+      },
+      {
+        "category": "Country",
+        "value": "Irlandia"
+      },
+      {
+        "category": "Country",
+        "value": "Islandia"
+      },
+      {
+        "category": "Country",
+        "value": "Izrael"
+      },
+      {
+        "category": "Country",
+        "value": "Jamajka"
+      },
+      {
+        "category": "Country",
+        "value": "Japonia"
+      },
+      {
+        "category": "Country",
+        "value": "Jemen"
+      },
+      {
+        "category": "Country",
+        "value": "Jordania"
+      },
+      {
+        "category": "Country",
+        "value": "Kambodża"
+      },
+      {
+        "category": "Country",
+        "value": "Kamerun"
+      },
+      {
+        "category": "Country",
+        "value": "Kanada"
+      },
+      {
+        "category": "Country",
+        "value": "Katar"
+      },
+      {
+        "category": "Country",
+        "value": "Kazachstan"
+      },
+      {
+        "category": "Country",
+        "value": "Kenia"
+      },
+      {
+        "category": "Country",
+        "value": "Kirgistan"
+      },
+      {
+        "category": "Country",
+        "value": "Kiribati"
+      },
+      {
+        "category": "Country",
+        "value": "Kolumbia"
+      },
+      {
+        "category": "Country",
+        "value": "Komory"
+      },
+      {
+        "category": "Country",
+        "value": "Kongo"
+      },
+      {
+        "category": "Country",
+        "value": "Kosowo"
+      },
+      {
+        "category": "Country",
+        "value": "Kostaryka"
+      },
+      {
+        "category": "Country",
+        "value": "Kuba"
+      },
+      {
+        "category": "Country",
+        "value": "Kuwejt"
+      },
+      {
+        "category": "Country",
+        "value": "Laos"
+      },
+      {
+        "category": "Country",
+        "value": "Lesotho"
+      },
+      {
+        "category": "Country",
+        "value": "Liban"
+      },
+      {
+        "category": "Country",
+        "value": "Liberia"
+      },
+      {
+        "category": "Country",
+        "value": "Libia"
+      },
+      {
+        "category": "Country",
+        "value": "Liechtenstein"
+      },
+      {
+        "category": "Country",
+        "value": "Litwa"
+      },
+      {
+        "category": "Country",
+        "value": "Luksemburg"
+      },
+      {
+        "category": "Country",
+        "value": "Łotwa"
+      },
+      {
+        "category": "Country",
+        "value": "Macedonia Północna"
+      },
+      {
+        "category": "Country",
+        "value": "Madagaskar"
+      },
+      {
+        "category": "Country",
+        "value": "Malawi"
+      },
+      {
+        "category": "Country",
+        "value": "Malediwy"
+      },
+      {
+        "category": "Country",
+        "value": "Malezja"
+      },
+      {
+        "category": "Country",
+        "value": "Mali"
+      },
+      {
+        "category": "Country",
+        "value": "Malta"
+      },
+      {
+        "category": "Country",
+        "value": "Maroko"
+      },
+      {
+        "category": "Country",
+        "value": "Martynika"
+      },
+      {
+        "category": "Country",
+        "value": "Mauretania"
+      },
+      {
+        "category": "Country",
+        "value": "Mauritius"
+      },
+      {
+        "category": "Country",
+        "value": "Meksyk"
+      },
+      {
+        "category": "Country",
+        "value": "Mikronezja"
+      },
+      {
+        "category": "Country",
+        "value": "Mołdawia"
+      },
+      {
+        "category": "Country",
+        "value": "Monako"
+      },
+      {
+        "category": "Country",
+        "value": "Mongolia"
+      },
+      {
+        "category": "Country",
+        "value": "Mozambik"
+      },
+      {
+        "category": "Country",
+        "value": "Namibia"
+      },
+      {
+        "category": "Country",
+        "value": "Nauru"
+      },
+      {
+        "category": "Country",
+        "value": "Nepal"
+      },
+      {
+        "category": "Country",
+        "value": "Niemcy"
+      },
+      {
+        "category": "Country",
+        "value": "Niger"
+      },
+      {
+        "category": "Country",
+        "value": "Nigeria"
+      },
+      {
+        "category": "Country",
+        "value": "Nikaragua"
+      },
+      {
+        "category": "Country",
+        "value": "Norwegia"
+      },
+      {
+        "category": "Country",
+        "value": "Nowa Zelandia"
+      },
+      {
+        "category": "Country",
+        "value": "Oman"
+      },
+      {
+        "category": "Country",
+        "value": "Pakistan"
+      },
+      {
+        "category": "Country",
+        "value": "Palau"
+      },
+      {
+        "category": "Country",
+        "value": "Panama"
+      },
+      {
+        "category": "Country",
+        "value": "Papua-Nowa Gwinea"
+      },
+      {
+        "category": "Country",
+        "value": "Paragwaj"
+      },
+      {
+        "category": "Country",
+        "value": "Peru"
+      },
+      {
+        "category": "Country",
+        "value": "Polska"
+      },
+      {
+        "category": "Country",
+        "value": "Portugalia"
+      },
+      {
+        "category": "Country",
+        "value": "Republika Południowej Afryki"
+      },
+      {
+        "category": "Country",
+        "value": "Republika Środkowoafrykańska"
+      },
+      {
+        "category": "Country",
+        "value": "Rosja"
+      },
+      {
+        "category": "Country",
+        "value": "Rumunia"
+      },
+      {
+        "category": "Country",
+        "value": "Rwanda"
+      },
+      {
+        "category": "Country",
+        "value": "Saint Kitts i Nevis"
+      },
+      {
+        "category": "Country",
+        "value": "Saint Lucia"
+      },
+      {
+        "category": "Country",
+        "value": "Saint Vincent i Grenadyny"
+      },
+      {
+        "category": "Country",
+        "value": "Salwador"
+      },
+      {
+        "category": "Country",
+        "value": "Samoa"
+      },
+      {
+        "category": "Country",
+        "value": "San Marino"
+      },
+      {
+        "category": "Country",
+        "value": "Senegal"
+      },
+      {
+        "category": "Country",
+        "value": "Serbia"
+      },
+      {
+        "category": "Country",
+        "value": "Seszele"
+      },
+      {
+        "category": "Country",
+        "value": "Sierra Leone"
+      },
+      {
+        "category": "Country",
+        "value": "Singapur"
+      },
+      {
+        "category": "Country",
+        "value": "Słowacja"
+      },
+    {
+        "category": "Country",
+        "value": "Słowenia"
+      },
+      {
+        "category": "Country",
+        "value": "Somalia"
+      },
+      {
+        "category": "Country",
+        "value": "Sudan"
+      },
+      {
+        "category": "Country",
+        "value": "Sudan Południowy"
+      },
+      {
+        "category": "Country",
+        "value": "Surinam"
+      },
+      {
+        "category": "Country",
+        "value": "Syria"
+      },
+      {
+        "category": "Country",
+        "value": "Szwajcaria"
+      },
+      {
+        "category": "Country",
+        "value": "Tadżykistan"
+      },
+      {
+        "category": "Country",
+        "value": "Tajlandia"
+      },
+      {
+        "category": "Country",
+        "value": "Tajwan"
+      },
+      {
+        "category": "Country",
+        "value": "Tanzania"
+      },
+      {
+        "category": "Country",
+        "value": "Togo"
+      },
+      {
+        "category": "Country",
+        "value": "Tonga"
+      },
+      {
+        "category": "Country",
+        "value": "Trynidad i Tobago"
+      },
+      {
+        "category": "Country",
+        "value": "Tunezja"
+      },
+      {
+        "category": "Country",
+        "value": "Turcja"
+      },
+      {
+        "category": "Country",
+        "value": "Turkmenistan"
+      },
+      {
+        "category": "Country",
+        "value": "Tuvalu"
+      },
+      {
+        "category": "Country",
+        "value": "Uganda"
+      },
+      {
+        "category": "Country",
+        "value": "Ukraina"
+      },
+      {
+        "category": "Country",
+        "value": "Urugwaj"
+      },
+      {
+        "category": "Country",
+        "value": "Uzbekistan"
+      },
+      {
+        "category": "Country",
+        "value": "Vanuatu"
+      },
+      {
+        "category": "Country",
+        "value": "Watykan"
+      },
+      {
+        "category": "Country",
+        "value": "Wenezuela"
+      },
+      {
+        "category": "Country",
+        "value": "Węgry"
+      },
+      {
+        "category": "Country",
+        "value": "Wielka Brytania"
+      },
+      {
+        "category": "Country",
+        "value": "Wietnam"
+      },
+      {
+        "category": "Country",
+        "value": "Włochy"
+      },
+      {
+        "category": "Country",
+        "value": "Wybrzeże Kości Słoniowej"
+      },
+      {
+        "category": "Country",
+        "value": "Wyspy Cooka"
+      },
+      {
+        "category": "Country",
+        "value": "Wyspy Marshalla"
+      },
+      {
+        "category": "Country",
+        "value": "Wyspy Owcze"
+      },
+      {
+        "category": "Country",
+        "value": "Wyspy Salomona"
+      },
+      {
+        "category": "Country",
+        "value": "Zambia"
+      },
+      {
+        "category": "Country",
+        "value": "Zimbabwe"
+      }
+    ]
+}
